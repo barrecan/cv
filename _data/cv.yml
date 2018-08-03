@@ -1,23 +1,17 @@
 personal:
-  name: Jacob Harris
-  email: harrisj.home@gmail.com
-  phone: (917) 535-2026
-  site: http://harrisj.github.io
-  city: Takoma Park, MD
+  name: Nick
+  email: barrecan@gmail.com
+  phone: (206) 963-2853
+  site: http://barrecan.com
+  city: Seattle, WA
   accounts:
-    twitter: harrisj
-    github: harrisj
-    linkedin: jacob-harris-4157961
-    keybase: harrisj
-  fingerprint: 219E C44A EC5B 6425 5A5B 0CB9 22C5 DDCC 45EE 2FBA
+    twitter: barrecan
+    github: barrecan
+    linkedin: barrecan
+    keybase: barrecan
+  fingerprint: A333 CFEF 9B58 9FE2 A939  792A 1D0E ED3A DC2D 5EE7
 objective: >
-  I am a web developer with 20 years of work experience and a Master’s
-  Degree in Computer Science who is looking for interesting problems
-  and building software for the public good. I specialize in backend
-  architectures and reliable APIs for important purposes. I live in
-  the Washington, D.C. area, but I am also an experienced and
-  ruthlessly efficient remote worker accustomed to working with
-  distributed teams.
+  Tax Analyst at Amazon, but much more than that.
 career:
   - company: Nava PBC
     link: https://www.navapbc.com/
