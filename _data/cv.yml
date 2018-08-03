@@ -1,0 +1,294 @@
+personal:
+  name: Jacob Harris
+  email: harrisj.home@gmail.com
+  phone: (917) 535-2026
+  site: http://harrisj.github.io
+  city: Takoma Park, MD
+  accounts:
+    twitter: harrisj
+    github: harrisj
+    linkedin: jacob-harris-4157961
+    keybase: harrisj
+  fingerprint: 219E C44A EC5B 6425 5A5B 0CB9 22C5 DDCC 45EE 2FBA
+objective: >
+  I am a web developer with 20 years of work experience and a Master’s
+  Degree in Computer Science who is looking for interesting problems
+  and building software for the public good. I specialize in backend
+  architectures and reliable APIs for important purposes. I live in
+  the Washington, D.C. area, but I am also an experienced and
+  ruthlessly efficient remote worker accustomed to working with
+  distributed teams.
+career:
+  - company: Nava PBC
+    link: https://www.navapbc.com/
+    title: Experienced Software Engineer
+    start: 2018
+    end: now
+    description: >
+      Nava is a public benefit corporation that contracts with
+      government agencies to build solutions and thoughtfully apply
+      technology to serve the American public.
+    projects:
+      - title: Quality Payments Program (QPP) Submissions API
+        link: https://qpp.cms.gov/developers
+        description: >-
+          The Submissions API is an integral component of the QPP Program
+          that allows medical registries to submit health measures
+          that are used to grade clinicians on their performance and
+          adjust how they are reimbursed by Medicare.  This was
+          already a successful API in production when I joined the
+          team, but the next critical phase was final scoring for
+          clinicians and physicians. I hit the groud running, learning
+          Node while implementing some logic for scoring. I also
+          identified and led on several ways to improve tooling for
+          tests and reduce technical debt.
+  - company: 18F
+    link: https://18f.gsa.gov/
+    title: Innovation Specialist
+    start: 2015
+    end: 2018
+    description: >
+      18F is a “government startup” that operates within the General
+      Services Administration and consults to build software products
+      for other federal agencies as clients. We build all of our
+      projects in public, as open source software informed by user
+      research and agile planning.
+    projects:
+      - title: MyUSA
+        link: https://github.com/18F/myusa
+        description: >-
+          I joined this project while it was in progress and helped
+          build out the user interface. MyUSA was a prototype system
+          for single-sign-on that allowed users to sign in and control
+          what information they share with various government
+          websites.
+      - title: Micro-purchase
+        link: https://micropurchase.18f.gov
+        description: >-
+          "The premise of the micro-purchase experiment was radical:
+          government employees should be able to commission custom
+          software development with the same ease as they can buy
+          office supplies. The initial experiment was built in Google
+          Docs; I helped create a robust web application in Ruby on
+          Rails to successfully run all other auctions."
+      - title: FBI Crime Data Explorer
+        link: https://github.com/18F/crime-data-api
+        description: >-
+          I am extremely interested in Open Data; when I learned that
+          18F would be building an interface for crime data from the
+          FBI, I asked to be part of the project, especially since it
+          also meant learning Python, a language I did not know that
+          well. I have worked closely with another developer on the
+          backend, building and optimizing an API used by the visual
+          explorer website.
+      - title: Confidential Survey
+        link: https://github.com/18f/confidential-survey
+        description: >-
+          As part of my involvement with the Diversity Guild and a
+          project to gather statistics on 18F's efforts at diversity
+          and inclusion, I built a prototype for conducting surveys
+          without collecting detailed records that could compromise a
+          user's privacy
+  - company: The New York Times
+    link: http://nytimes.com
+    title: Senior Software Architect
+    office: Interactive News
+    start: 2006
+    end: 2015
+    description: >-
+      In 2007, I was a co-founder of the Interactive Newsroom Technologies
+      Team, a startup-like group embedded within the newsroom that
+      creates news-driven web applications on agile timeframes.
+    projects:
+      - title: Elections (2008-2014)
+        link: https://source.opennews.org/en-US/articles/ny-times-results-loader/
+        description: >-
+          In 2008, I paired with another developer to build a new and
+          better election results loader for the general election. We
+          continued using it for 2010, 2012, the 2013 NYC Mayoral
+          election and 2014 election years, and I refactored that
+          loader into a modular API-based service that shared results
+          with the web and print and operated under insane amounts of
+          traffic.
+      - title: Olympics Results (2010/2012)
+        link: http://2010games.nytimes.com/events/curling/mens/results.html
+        description: >
+          The International Olympic Committee provides a real-time
+          feed of XML results data, and I helped architect and build
+          out a service to parse those results and display on the
+          sites of the _Times_ and a few partners. I also helped to
+          architect the successor system built for the 2014 London
+          Olympics.
+      - title: Wikileaks War Logs
+        link: http://www.nytimes.com/interactive/2010/10/24/world/1024-surge-graphic.html
+        description: >
+          When Wikileaks provided the _Times_ with leaked military
+          dispatches from Iraq and Afghanistan, I built an internal
+          website application used by reporters to search and analyze
+          the people and places within. I also contributed
+          research and pitched a graphic to accompany a story on the
+          deaths in Baghdad.
+      - title: "@nytimes Twitter Account"
+        link: https://twitter.com/nytimes
+        description: >
+          One afternoon in 2007, I created the @nytimes twitter
+          account. I then added other accounts and built the service
+          for feeding stories from various RSS feeds into the 80+
+          accounts belonging to the _Times_.
+      - title: Times Haiku
+        link: http://haiku.nytimes.com/
+        description: >
+          After the 2012 election, I built a bot that scanned _Times_
+          articles to find haiku embedded within them.
+  - company: Alacra, Inc.
+    title: Software Developer
+    link: http://www.alacra.com/
+    start: 1998
+    end: 2006
+    description: >
+      Alacra resells financial content from over 80 different
+      databases to financial and legal firms. My role there was R&D
+      and rapid development, particularly combining content from these
+      databases.
+education:
+  - name: Massachusetts Institute of Technology
+    link: https://mit.edu/
+    start: 1993
+    end: 1998
+    degree: Masters Eng./Bachelor of Science (dual)
+    description: >
+      Major in Computer Science, Minor in Literature. Concentration of
+      studies: operating systems, software engineering, programming
+      languages and compilers.
+skills:
+  languages:
+    - C/C++/Go
+    - Java/Scala
+    - HTML/CSS/Javascript
+    - Ruby/Ruby on Rails
+    - Python/Flask
+    - Node/Express
+    - Scheme/Lisp/Clojure
+    - SQL (MySQL/Postgres)
+  tools:
+    - Mac OS X/ Linux server
+    - Amazon Web Services
+    - Docker/CloudFoundry
+    - Varnish/Haproxy
+    - Apache/Nginx/static sites
+    - Redis/Elasticsearch
+    - Test-Driven Development
+  creative:
+    - Data Journalism
+    - API-centric approaches
+    - Agile/Kanban
+    - Effective remote worker
+    - Great communication skills
+    - Plays well with others
+    - Concerned about inclusion
+writing:
+  - title: Solving a Century-Old Typographical Mystery
+    link: http://www.theatlantic.com/technology/archive/2016/05/the-ascii-mystery-face/483698/
+    publication: Atlantic Monthly
+    year: 2016
+    description: >
+      How a strange face in a random 19th-century newspaper ad became
+      a portal to a forgotten moment in ASCII art history
+  - title: Why Is It So Hard to Make Great Food Infographics?
+    link: http://www.eater.com/2015/12/16/10288258/book-review-food-infographics
+    publication: Eater
+    year: 2015
+    description: >
+      A review of two books that try to bring infographic techniques
+      to food subjects.
+  - title: Consider the Boolean
+    link: https://source.opennews.org/en-US/learning/consider-boolean/
+    publication: Source
+    year: 2015
+    description: >
+      An example with boolean types of how even the simplest datatype
+      models can fail in complicated ways
+  - title: Connecting With The Dots
+    link: https://source.opennews.org/en-US/learning/connecting-dots/
+    publication: Source
+    year: 2015
+    description: >
+      A look at how infographics might potentially include empathy
+  - title: Thank You, Electionbot
+    link: https://source.opennews.org/en-US/articles/thank-you-electionbot/
+    publication: Source
+    year: 2015
+    description: >
+      How I used a Slack bot to easily track the progress of the Times
+      election loader.
+  - title: A Wave Of P.R. Data
+    link: http://www.niemanlab.org/2014/12/a-wave-of-p-r-data/
+    publication: NiemanLab
+    year: 2014
+    description: >
+      I am worried about the rise of sloppy chartjunk produced by PR
+      firms to virally advertise for companies
+  - title: Bots With Thoughts
+    link: https://source.opennews.org/en-US/articles/bots-with-thoughts/
+    publication: Source
+    year: 2014
+    description: >
+      Bots are more like toys than helpers these days. What if we
+      could create a bot that learned its aesthetics?
+  - title: Distrust Your Data
+    link: https://source.opennews.org/en-US/learning/distrust-your-data/
+    publication: Source
+    year: 2014
+    description: >
+      I analyzed some severe problems with a joint study from Pornhub
+      and Buzzfeed that was designed to be viral and was also terribly
+      wrong
+  - title: And Remember, This Is For Posterity
+    link: https://source.opennews.org/en-US/learning/and-remember-ones-posterity/
+    publication: Source
+    year: 2013
+    description: >
+      It is easier to read a newspaper from 100 years ago than a data
+      journalism project from 5 years back, because we do not build
+      our work to last.
+  - title: The Times Regrets The Programmer Error
+    link: https://source.opennews.org/en-US/learning/times-regrets-programmer-error/
+    publication: Source
+    year: 2013
+    description: >
+      Data journalism gives us new ways to report on the world, but
+      also many new and interesting ways to get it wrong. It is time
+      to consider a taxonomy of possible problems.
+  - title: About Times Haiku
+    link: http://haiku.nytimes.com/about
+    publication: The New York Times
+    year: 2013
+    description: >
+      How the New York Times haiku bot works
+  - title: How the Data Sausage Gets Made
+    link: https://source.opennews.org/en-US/learning/how-sausage-gets-made/
+    publication: Source
+    year: 2013
+    description: >
+      How I built a scraper to pull structured data out of the
+      unstructured press releases for food recalls
+  - title: "The New York Times' Election Loader"
+    link: https://source.opennews.org/en-US/articles/ny-times-results-loader/
+    publication: Source
+    year: 2012
+    description: >
+      I described some of the interesting aspect of the program that
+      automatically loaded election results for the Times homepage.
+  - title: Word Clouds Considered Harmful
+    link: http://www.niemanlab.org/2011/10/word-clouds-considered-harmful/
+    publication: NiemanLab
+    year: 2011
+    description: >
+      My diatribe against word clouds, a visualization that must be stopped
+  - title: A Deadly Day in Baghdad
+    link: http://www.nytimes.com/interactive/2010/10/24/world/1024-surge-graphic.html?_r=0
+    publication: The New York Times
+    year: 2010
+    description: >
+      A visualization of the sectarian violence that swept Iraq
+      derived from the Wikileaks War Logs
