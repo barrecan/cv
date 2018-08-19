@@ -1,5 +1,5 @@
 personal:
-  name: Nick
+  name: Nick Barreca
   email: barrecan@gmail.com
   phone: (206) 963-2853
   site: http://barrecan.com
@@ -13,147 +13,60 @@ personal:
 objective: >
   Tax Analyst at Amazon, but much more than that.
 career:
-  - company: Nava PBC
-    link: https://www.navapbc.com/
-    title: Experienced Software Engineer
+  - company: Amazon
+    link: https://www.amazon.com/
+    title: Tax Analyst - Amazon Tax Engine
     start: 2018
     end: now
     description: >
-      Nava is a public benefit corporation that contracts with
-      government agencies to build solutions and thoughtfully apply
-      technology to serve the American public.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed neque sagittis, maximus metus eget, dapibus ipsum. Duis sed nisi sapien. Nulla vitae nisi libero. Proin id purus velit. Etiam vulputate est ut enim rhoncus pretium. Etiam efficitur consectetur justo ut facilisis.
     projects:
-      - title: Quality Payments Program (QPP) Submissions API
-        link: https://qpp.cms.gov/developers
+      - title: Fusce Sed Mi Massa
         description: >-
-          The Submissions API is an integral component of the QPP Program
-          that allows medical registries to submit health measures
-          that are used to grade clinicians on their performance and
-          adjust how they are reimbursed by Medicare.  This was
-          already a successful API in production when I joined the
-          team, but the next critical phase was final scoring for
-          clinicians and physicians. I hit the groud running, learning
-          Node while implementing some logic for scoring. I also
-          identified and led on several ways to improve tooling for
-          tests and reduce technical debt.
-  - company: 18F
-    link: https://18f.gsa.gov/
-    title: Innovation Specialist
-    start: 2015
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed neque sagittis, maximus metus eget, dapibus ipsum. Duis sed nisi sapien. Nulla vitae nisi libero. Proin id purus velit. Etiam vulputate est ut enim rhoncus pretium. Etiam efficitur consectetur justo ut facilisis. Etiam aliquet, neque sed imperdiet euismod, massa ex sollicitudin ex, sed dictum elit elit quis odio. Sed feugiat pretium elit eget viverra. Fusce vitae tincidunt nulla. Phasellus non elit leo. Donec quis bibendum nisl. Suspendisse accumsan arcu a bibendum pellentesque.
+  - company: Seattle City Light
+    link: http://seattle.gov/light/
+    title: Regulatory Compliance Intern
+    start: 2017
     end: 2018
     description: >
-      18F is a “government startup” that operates within the General
-      Services Administration and consults to build software products
-      for other federal agencies as clients. We build all of our
-      projects in public, as open source software informed by user
-      research and agile planning.
+      Aliquam nunc ipsum, blandit eget malesuada sit amet, auctor eget massa. Donec nisi nisl, convallis sed urna et, pretium maximus orci. Vivamus sagittis eleifend nulla. Nulla hendrerit erat malesuada condimentum ultrices. Donec in tortor hendrerit, mollis metus eget, volutpat turpis. Duis efficitur nibh mauris, elementum rhoncus quam sodales in.
     projects:
-      - title: MyUSA
-        link: https://github.com/18F/myusa
+      - title: Boundary Hydro Electric Dam Inspection
+        link: http://seattle.gov/light/
         description: >-
-          I joined this project while it was in progress and helped
-          build out the user interface. MyUSA was a prototype system
-          for single-sign-on that allowed users to sign in and control
-          what information they share with various government
-          websites.
-      - title: Micro-purchase
-        link: https://micropurchase.18f.gov
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales justo dignissim felis vestibulum luctus. Praesent sollicitudin, risus quis efficitur sodales, orci magna congue quam, quis consequat elit lacus ac velit. Proin vestibulum mi eget ex viverra, a tincidunt ante pellentesque.
+      - title: Azure Information Protection System
+        link: http://seattle.gov/light/
         description: >-
-          "The premise of the micro-purchase experiment was radical:
-          government employees should be able to commission custom
-          software development with the same ease as they can buy
-          office supplies. The initial experiment was built in Google
-          Docs; I helped create a robust web application in Ruby on
-          Rails to successfully run all other auctions."
-      - title: FBI Crime Data Explorer
-        link: https://github.com/18F/crime-data-api
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales justo dignissim felis vestibulum luctus. Praesent sollicitudin, risus quis efficitur sodales, orci magna congue quam, quis consequat elit lacus ac velit. Proin vestibulum mi eget ex viverra, a tincidunt ante pellentesque.
+      - title: FERC Regulatory Analysis
+        link: http://seattle.gov/light/
         description: >-
-          I am extremely interested in Open Data; when I learned that
-          18F would be building an interface for crime data from the
-          FBI, I asked to be part of the project, especially since it
-          also meant learning Python, a language I did not know that
-          well. I have worked closely with another developer on the
-          backend, building and optimizing an API used by the visual
-          explorer website.
-      - title: Confidential Survey
-        link: https://github.com/18f/confidential-survey
-        description: >-
-          As part of my involvement with the Diversity Guild and a
-          project to gather statistics on 18F's efforts at diversity
-          and inclusion, I built a prototype for conducting surveys
-          without collecting detailed records that could compromise a
-          user's privacy
-  - company: The New York Times
-    link: http://nytimes.com
-    title: Senior Software Architect
-    office: Interactive News
-    start: 2006
-    end: 2015
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales justo dignissim felis vestibulum luctus. Praesent sollicitudin, risus quis efficitur sodales, orci magna congue quam, quis consequat elit lacus ac velit. Proin vestibulum mi eget ex viverra, a tincidunt ante pellentesque.
+  - company: Consumer Education and Training Services
+    link: http://centsprogram.org
+    title: Legal Research Intern
+    office: Seattle
+    start: 2016
+    end: 2017
     description: >-
-      In 2007, I was a co-founder of the Interactive Newsroom Technologies
-      Team, a startup-like group embedded within the newsroom that
-      creates news-driven web applications on agile timeframes.
+      Ut condimentum ultricies viverra. Fusce dapibus rutrum sem, id gravida massa faucibus id. Praesent sem felis, volutpat quis metus a, faucibus mattis ipsum. Morbi tortor lectus, molestie blandit pulvinar nec, commodo at nibh.
     projects:
-      - title: Elections (2008-2014)
-        link: https://source.opennews.org/en-US/articles/ny-times-results-loader/
+      - title: Money Steps (2008-)
+        link: http://centsprogram.org
         description: >-
-          In 2008, I paired with another developer to build a new and
-          better election results loader for the general election. We
-          continued using it for 2010, 2012, the 2013 NYC Mayoral
-          election and 2014 election years, and I refactored that
-          loader into a modular API-based service that shared results
-          with the web and print and operated under insane amounts of
-          traffic.
-      - title: Olympics Results (2010/2012)
-        link: http://2010games.nytimes.com/events/curling/mens/results.html
-        description: >
-          The International Olympic Committee provides a real-time
-          feed of XML results data, and I helped architect and build
-          out a service to parse those results and display on the
-          sites of the _Times_ and a few partners. I also helped to
-          architect the successor system built for the 2014 London
-          Olympics.
-      - title: Wikileaks War Logs
-        link: http://www.nytimes.com/interactive/2010/10/24/world/1024-surge-graphic.html
-        description: >
-          When Wikileaks provided the _Times_ with leaked military
-          dispatches from Iraq and Afghanistan, I built an internal
-          website application used by reporters to search and analyze
-          the people and places within. I also contributed
-          research and pitched a graphic to accompany a story on the
-          deaths in Baghdad.
-      - title: "@nytimes Twitter Account"
-        link: https://twitter.com/nytimes
-        description: >
-          One afternoon in 2007, I created the @nytimes twitter
-          account. I then added other accounts and built the service
-          for feeding stories from various RSS feeds into the 80+
-          accounts belonging to the _Times_.
-      - title: Times Haiku
-        link: http://haiku.nytimes.com/
-        description: >
-          After the 2012 election, I built a bot that scanned _Times_
-          articles to find haiku embedded within them.
-  - company: Alacra, Inc.
-    title: Software Developer
-    link: http://www.alacra.com/
-    start: 1998
-    end: 2006
-    description: >
-      Alacra resells financial content from over 80 different
-      databases to financial and legal firms. My role there was R&D
-      and rapid development, particularly combining content from these
-      databases.
+          Proin laoreet laoreet justo ut imperdiet. Vestibulum magna lorem, blandit facilisis pharetra nec, consectetur nec dui. Fusce pharetra, ante nec lobortis tincidunt, ex est sollicitudin est, quis tristique orci tortor et libero. Curabitur sit amet urna erat. Aenean vitae est nec lorem egestas tincidunt. Curabitur vitae odio sed urna congue condimentum quis non magna.
+
 education:
-  - name: Massachusetts Institute of Technology
-    link: https://mit.edu/
-    start: 1993
-    end: 1998
-    degree: Masters Eng./Bachelor of Science (dual)
+  - name: Seattle University
+    link: https://seattleu.edu/
+    start: 2014
+    end: 2018
+    degree: Bachelor of Art
     description: >
-      Major in Computer Science, Minor in Literature. Concentration of
-      studies: operating systems, software engineering, programming
-      languages and compilers.
+      Major in Political Science. Concentration of
+      studies: Legal studies, political theory/philosophy, comparative politics and transitional justice.
 skills:
   languages:
     - C/C++/Go
@@ -180,18 +93,18 @@ skills:
     - Great communication skills
     - Plays well with others
     - Concerned about inclusion
-writing:
+interests:
   - title: Solving a Century-Old Typographical Mystery
     link: http://www.theatlantic.com/technology/archive/2016/05/the-ascii-mystery-face/483698/
     publication: Atlantic Monthly
-    year: 2016
+    year: Magic
     description: >
       How a strange face in a random 19th-century newspaper ad became
       a portal to a forgotten moment in ASCII art history
   - title: Why Is It So Hard to Make Great Food Infographics?
     link: http://www.eater.com/2015/12/16/10288258/book-review-food-infographics
     publication: Eater
-    year: 2015
+    year: Writing
     description: >
       A review of two books that try to bring infographic techniques
       to food subjects.

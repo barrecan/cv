@@ -1,8 +1,8 @@
 <section class="row no-print">
-  <h2>Selected Writing</h2>
+  <h2>Interests</h2>
 
   <dl>
-    {% assign by_year = site.data.cv.writing | group_by: "year" %}
+    {% assign by_year = site.data.cv.interests | group_by: "year" %}
     {% for year in by_year %}
     <dt><time>{{ year.name }}</time></dt>
     <dd>
