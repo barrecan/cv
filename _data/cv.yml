@@ -13,7 +13,7 @@ personal:
 objective: >
   Tax Analyst at Amazon, but much more than that.
 career:
-  - company: Amazon
+  - company: Amazon.com
     link: https://www.amazon.com/
     title: Tax Analyst - Amazon Tax Engine
     start: 2018
@@ -33,18 +33,18 @@ career:
       Aliquam nunc ipsum, blandit eget malesuada sit amet, auctor eget massa. Donec nisi nisl, convallis sed urna et, pretium maximus orci. Vivamus sagittis eleifend nulla. Nulla hendrerit erat malesuada condimentum ultrices. Donec in tortor hendrerit, mollis metus eget, volutpat turpis. Duis efficitur nibh mauris, elementum rhoncus quam sodales in.
     projects:
       - title: Boundary Hydro Electric Dam Inspection
-        link: http://seattle.gov/light/
+        link: http://www.seattle.gov/light/Boundary/
         description: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales justo dignissim felis vestibulum luctus. Praesent sollicitudin, risus quis efficitur sodales, orci magna congue quam, quis consequat elit lacus ac velit. Proin vestibulum mi eget ex viverra, a tincidunt ante pellentesque.
       - title: Azure Information Protection System
-        link: http://seattle.gov/light/
+        link: https://azure.microsoft.com/en-us/services/information-protection/
         description: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales justo dignissim felis vestibulum luctus. Praesent sollicitudin, risus quis efficitur sodales, orci magna congue quam, quis consequat elit lacus ac velit. Proin vestibulum mi eget ex viverra, a tincidunt ante pellentesque.
       - title: FERC Regulatory Analysis
-        link: http://seattle.gov/light/
+        link: https://www.nerc.com/pa/Stand/Pages/Standards-Under-Development.aspx
         description: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales justo dignissim felis vestibulum luctus. Praesent sollicitudin, risus quis efficitur sodales, orci magna congue quam, quis consequat elit lacus ac velit. Proin vestibulum mi eget ex viverra, a tincidunt ante pellentesque.
-  - company: Consumer Education and Training Services
+  - company: Consumer Education and Training Services (CENTS)
     link: http://centsprogram.org
     title: Legal Research Intern
     office: Seattle
@@ -53,10 +53,15 @@ career:
     description: >-
       Ut condimentum ultricies viverra. Fusce dapibus rutrum sem, id gravida massa faucibus id. Praesent sem felis, volutpat quis metus a, faucibus mattis ipsum. Morbi tortor lectus, molestie blandit pulvinar nec, commodo at nibh.
     projects:
-      - title: Money Steps (2008-)
-        link: http://centsprogram.org
+      - title: Money Steps
+        link: http://moneystepsproject.org/
         description: >-
           Proin laoreet laoreet justo ut imperdiet. Vestibulum magna lorem, blandit facilisis pharetra nec, consectetur nec dui. Fusce pharetra, ante nec lobortis tincidunt, ex est sollicitudin est, quis tristique orci tortor et libero. Curabitur sit amet urna erat. Aenean vitae est nec lorem egestas tincidunt. Curabitur vitae odio sed urna congue condimentum quis non magna.
+      - title: Senior Money Project
+        link: http://seniormoneyproject.org/
+        description: >-
+          Proin laoreet laoreet justo ut imperdiet. Vestibulum magna lorem, blandit facilisis pharetra nec, consectetur nec dui. Fusce pharetra, ante nec lobortis tincidunt, ex est sollicitudin est, quis tristique orci tortor et libero. Curabitur sit amet urna erat. Aenean vitae est nec lorem egestas tincidunt. Curabitur vitae odio sed urna congue condimentum quis non magna.
+
 
 education:
   - name: Seattle University
@@ -69,29 +74,28 @@ education:
       studies: Legal studies, political theory/philosophy, comparative politics and transitional justice.
 skills:
   languages:
-    - C/C++/Go
-    - Java/Scala
-    - HTML/CSS/Javascript
-    - Ruby/Ruby on Rails
-    - Python/Flask
-    - Node/Express
-    - Scheme/Lisp/Clojure
+    - HTML/CSS
+    - LaTeX
+    - XML/YAML/Markdown
     - SQL (MySQL/Postgres)
+    - Bash
+    - (some) Python/Flask
+    - (learning) R
   tools:
     - Mac OS X/ Linux server
-    - Amazon Web Services
-    - Docker/CloudFoundry
-    - Varnish/Haproxy
+    - Amazon Web Services (AWS)
+    - Azure Information Protection (AIP)
     - Apache/Nginx/static sites
-    - Redis/Elasticsearch
-    - Test-Driven Development
+    - Git/Github
+    - Domain management
+    - Security/Penetration tools
   creative:
-    - Data Journalism
-    - API-centric approaches
-    - Agile/Kanban
+    - Regulatory/Statutory analysis
+    - Audit attestation
+    - Internal documentation management
     - Effective remote worker
     - Great communication skills
-    - Plays well with others
+    - Works well with others
     - Concerned about inclusion
 interests:
   - title: Solving a Century-Old Typographical Mystery
