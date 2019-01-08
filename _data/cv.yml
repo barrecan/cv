@@ -11,17 +11,25 @@ personal:
     keybase: barrecan
   fingerprint: A333 CFEF 9B58 9FE2 A939  792A 1D0E ED3A DC2D 5EE7
 objective: >
-  Tax Analyst at Amazon, but much more than that.
+  Tax Analyst at Amazon, with law school in the future. Interested in identity, information networks, and privacy. 
 career:
   - company: Amazon.com
     link: https://www.amazon.com/
-    title: Tax Analyst - Amazon Tax Engine
+    title: Tax Data Analyst - Amazon Tax Engine
     start: 2018
     end: now
     description: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed neque sagittis, maximus metus eget, dapibus ipsum. Duis sed nisi sapien. Nulla vitae nisi libero. Proin id purus velit. Etiam vulputate est ut enim rhoncus pretium. Etiam efficitur consectetur justo ut facilisis.
+      Work within Amazon's growing Tax Engine, focused primarily on the third-party vendor sales taxability and ongoing efforts to remain compliant with sales tax legislation resulting from South Dakota v. Wayfair, Inc.
     projects:
-      - title: Fusce Sed Mi Massa
+      - title: Data Catalog Services
+        description: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed neque sagittis, maximus metus eget, dapibus ipsum. Duis sed nisi sapien. Nulla vitae nisi libero. Proin id purus velit. Etiam vulputate est ut enim rhoncus pretium. Etiam efficitur consectetur justo ut facilisis. Etiam aliquet, neque sed imperdiet euismod, massa ex sollicitudin ex, sed dictum elit elit quis odio. Sed feugiat pretium elit eget viverra. Fusce vitae tincidunt nulla. Phasellus non elit leo. Donec quis bibendum nisl. Suspendisse accumsan arcu a bibendum pellentesque.
+        projects:
+      - title: Product Classification Services Wiki Management
+        description: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed neque sagittis, maximus metus eget, dapibus ipsum. Duis sed nisi sapien. Nulla vitae nisi libero. Proin id purus velit. Etiam vulputate est ut enim rhoncus pretium. Etiam efficitur consectetur justo ut facilisis. Etiam aliquet, neque sed imperdiet euismod, massa ex sollicitudin ex, sed dictum elit elit quis odio. Sed feugiat pretium elit eget viverra. Fusce vitae tincidunt nulla. Phasellus non elit leo. Donec quis bibendum nisl. Suspendisse accumsan arcu a bibendum pellentesque.     
+          projects:
+      - title: Internal Application Development
         description: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed neque sagittis, maximus metus eget, dapibus ipsum. Duis sed nisi sapien. Nulla vitae nisi libero. Proin id purus velit. Etiam vulputate est ut enim rhoncus pretium. Etiam efficitur consectetur justo ut facilisis. Etiam aliquet, neque sed imperdiet euismod, massa ex sollicitudin ex, sed dictum elit elit quis odio. Sed feugiat pretium elit eget viverra. Fusce vitae tincidunt nulla. Phasellus non elit leo. Donec quis bibendum nisl. Suspendisse accumsan arcu a bibendum pellentesque.
   - company: Seattle City Light
@@ -30,7 +38,7 @@ career:
     start: 2017
     end: 2018
     description: >
-      Aliquam nunc ipsum, blandit eget malesuada sit amet, auctor eget massa. Donec nisi nisl, convallis sed urna et, pretium maximus orci. Vivamus sagittis eleifend nulla. Nulla hendrerit erat malesuada condimentum ultrices. Donec in tortor hendrerit, mollis metus eget, volutpat turpis. Duis efficitur nibh mauris, elementum rhoncus quam sodales in.
+      Seattle City Light is the 10th largest public utility in the United States and the first municipal utility in the United States to own and operate a hydroelectric facility (Skagit River Hydroelectric Project). In 2005, Seattle City Light became the first electric utility in the United States to fully offset all its carbon emissions and has remained carbon neutral since. My role was in the Regulatory Compliance division, responsible for all Federal Energy Regulatory Commission (FERC) reliability compliance.
     projects:
       - title: Boundary Hydro Electric Dam Inspection
         link: http://www.seattle.gov/light/Boundary/
@@ -46,22 +54,25 @@ career:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales justo dignissim felis vestibulum luctus. Praesent sollicitudin, risus quis efficitur sodales, orci magna congue quam, quis consequat elit lacus ac velit. Proin vestibulum mi eget ex viverra, a tincidunt ante pellentesque.
   - company: Consumer Education and Training Services (CENTS)
     link: http://centsprogram.org
-    title: Legal Research Intern
     office: Seattle
+    title: Legal Research Intern
     start: 2016
     end: 2017
     description: >-
-      Ut condimentum ultricies viverra. Fusce dapibus rutrum sem, id gravida massa faucibus id. Praesent sem felis, volutpat quis metus a, faucibus mattis ipsum. Morbi tortor lectus, molestie blandit pulvinar nec, commodo at nibh.
+      CENTS empowers people to improve their financial health by developing educational and legal resources to help them prevent or overcome financial challenges. CENTS is a 501(c)(3) non-profit organization funded by foundation grants, special events, program fees, and individual contributions. CENTS is affiliated with the King County Bar Association and has created programs with the support of the Washington Attorney Generals Office, the Washington State Department of Financial Institutions, Seattle Foundation, and the Consumer Protection and Education Fund. CENTS does not sell or solicit to the individuals who attend our classes and programs. My role was primarily program data research and content management.
     projects:
       - title: Money Steps
         link: http://moneystepsproject.org/
         description: >-
-          Proin laoreet laoreet justo ut imperdiet. Vestibulum magna lorem, blandit facilisis pharetra nec, consectetur nec dui. Fusce pharetra, ante nec lobortis tincidunt, ex est sollicitudin est, quis tristique orci tortor et libero. Curabitur sit amet urna erat. Aenean vitae est nec lorem egestas tincidunt. Curabitur vitae odio sed urna congue condimentum quis non magna.
+          Money Steps was designed to help people who have experienced incarceratio take control of their financial situation. The project was made in partnership with the United States Probation and Pretrial Services system and funded by a grant from the Western District of Washington Library Fund.
       - title: Senior Money Project
         link: http://seniormoneyproject.org/
         description: >-
-          Proin laoreet laoreet justo ut imperdiet. Vestibulum magna lorem, blandit facilisis pharetra nec, consectetur nec dui. Fusce pharetra, ante nec lobortis tincidunt, ex est sollicitudin est, quis tristique orci tortor et libero. Curabitur sit amet urna erat. Aenean vitae est nec lorem egestas tincidunt. Curabitur vitae odio sed urna congue condimentum quis non magna.
-
+          The statistics are staggering: Senior citizens and the elerly are swindled out of nearly $3 billion a year, yet only 1 in 44 cases are reported. Senior Money Project is an educational financial program which aims to inform this at risk population on topics such as identity theft and estate planning, money management, reverse mortgages/equity, and general predatory scams.
+      - title: Financial Navigation Program for Cancer Patients
+        link: http://centsprogram.org/wordpress/wp-content/uploads/2018/12/flyer-planners.pdf
+        description: >-
+          In 2015, CENTS began its partnership with the Fred Hutchinson Cancer Research Center to study strategies to prevent or reduce cancer-related financial toxicity. In these research projects, patients were provided an individual financial counselor by CENTS and an insurance advocate from the Patient Advocate Foundation for monthly individual meetings for six months.
 
 education:
   - name: Seattle University
@@ -70,8 +81,7 @@ education:
     end: 2018
     degree: Bachelor of Art
     description: >
-      Major in Political Science. Concentration of
-      studies: Legal studies, political theory/philosophy, comparative politics and transitional justice.
+      Major in Political Science. Concentration of studies: Legal studies, political theory/philosophy, comparative politics and transitional justice.
 skills:
   languages:
     - HTML/CSS
@@ -91,6 +101,7 @@ skills:
     - Security/Penetration tools
   creative:
     - Regulatory/Statutory analysis
+    - Data governance
     - Audit attestation
     - Internal documentation management
     - Effective remote worker
@@ -98,20 +109,18 @@ skills:
     - Works well with others
     - Concerned about inclusion
 interests:
-  - title: Solving a Century-Old Typographical Mystery
-    link: http://www.theatlantic.com/technology/archive/2016/05/the-ascii-mystery-face/483698/
-    publication: Atlantic Monthly
+  - title: The Twenty-Five-Year Journey of Magic The Gathering
+    link: https://www.newyorker.com/culture/culture-desk/the-twenty-five-year-journey-of-magic-the-gathering
+    publication: The New Yorker
     year: Magic
     description: >
-      How a strange face in a random 19th-century newspaper ad became
-      a portal to a forgotten moment in ASCII art history
-  - title: Why Is It So Hard to Make Great Food Infographics?
-    link: http://www.eater.com/2015/12/16/10288258/book-review-food-infographics
-    publication: Eater
+      X
+  - title: Fair Information Practices - A Basic History
+    link: https://bobgellman.com/rg-docs/rg-FIPshistory.pdf
+    publication: Bob Gellman
     year: Writing
     description: >
-      A review of two books that try to bring infographic techniques
-      to food subjects.
+      FIPs are a set of internationally recognized practices for addressing the privacy of information about individuals. Information privacy is a subset of privacy.
   - title: Consider the Boolean
     link: https://source.opennews.org/en-US/learning/consider-boolean/
     publication: Source
@@ -196,10 +205,9 @@ interests:
     year: 2011
     description: >
       My diatribe against word clouds, a visualization that must be stopped
-  - title: Fair Information Practices
-    link: http://www.nytimes.com/interactive/2010/10/24/world/1024-surge-graphic.html?_r=0
-    publication: The New York Times
-    year: 2010
+  - title: Electronic Frontier Foundation
+    link: https://www.eff.org/
+    publication: EFF
+    year: Organization
     description: >
-      A visualization of the sectarian violence that swept Iraq
-      derived from the Wikileaks War Logs
+      The Electronic Frontier Foundation is the leading nonprofit organization defending civil liberties in the digital world.
