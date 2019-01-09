@@ -11,7 +11,7 @@ personal:
     keybase: barrecan
   fingerprint: A333 CFEF 9B58 9FE2 A939  792A 1D0E ED3A DC2D 5EE7
 objective: >
-  Tax Analyst at Amazon, with law school in the future. Interested in identity, information networks, and privacy. 
+  Tax Analyst at Amazon, with law school in the future. Interested in identity, information networks, and privacy.
 career:
   - company: Amazon.com
     link: https://www.amazon.com/
@@ -23,35 +23,34 @@ career:
     projects:
       - title: Data Catalog Services
         description: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed neque sagittis, maximus metus eget, dapibus ipsum. Duis sed nisi sapien. Nulla vitae nisi libero. Proin id purus velit. Etiam vulputate est ut enim rhoncus pretium. Etiam efficitur consectetur justo ut facilisis. Etiam aliquet, neque sed imperdiet euismod, massa ex sollicitudin ex, sed dictum elit elit quis odio. Sed feugiat pretium elit eget viverra. Fusce vitae tincidunt nulla. Phasellus non elit leo. Donec quis bibendum nisl. Suspendisse accumsan arcu a bibendum pellentesque.
+          Worked on the Data Catalog Service, a SQL-based system that sources and transforms data into a format that is usable by the Tax Enginge with the goal of providing a more efficient and internalized data stream.
         projects:
       - title: Product Classification Services Wiki Management
         description: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed neque sagittis, maximus metus eget, dapibus ipsum. Duis sed nisi sapien. Nulla vitae nisi libero. Proin id purus velit. Etiam vulputate est ut enim rhoncus pretium. Etiam efficitur consectetur justo ut facilisis. Etiam aliquet, neque sed imperdiet euismod, massa ex sollicitudin ex, sed dictum elit elit quis odio. Sed feugiat pretium elit eget viverra. Fusce vitae tincidunt nulla. Phasellus non elit leo. Donec quis bibendum nisl. Suspendisse accumsan arcu a bibendum pellentesque.     
-          projects:
+          Managed and maintained internal Tax Engine documentation (Wiki) initiative in an effort to streamline workflow and new employee on-boarding processes.
       - title: Internal Application Development
         description: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed neque sagittis, maximus metus eget, dapibus ipsum. Duis sed nisi sapien. Nulla vitae nisi libero. Proin id purus velit. Etiam vulputate est ut enim rhoncus pretium. Etiam efficitur consectetur justo ut facilisis. Etiam aliquet, neque sed imperdiet euismod, massa ex sollicitudin ex, sed dictum elit elit quis odio. Sed feugiat pretium elit eget viverra. Fusce vitae tincidunt nulla. Phasellus non elit leo. Donec quis bibendum nisl. Suspendisse accumsan arcu a bibendum pellentesque.
+          Advised on internal tax classification software development with Tax Enginge managers and software developers.
   - company: Seattle City Light
     link: http://seattle.gov/light/
     title: Regulatory Compliance Intern
     start: 2017
     end: 2018
     description: >
-      Seattle City Light is the 10th largest public utility in the United States and the first municipal utility in the United States to own and operate a hydroelectric facility (Skagit River Hydroelectric Project). In 2005, Seattle City Light became the first electric utility in the United States to fully offset all its carbon emissions and has remained carbon neutral since. My role was in the Regulatory Compliance division, responsible for all Federal Energy Regulatory Commission (FERC) reliability compliance.
+      Seattle City Light is the 10th largest public utility in the United States and in 2005 became the first electric utility in the United States to fully offset all its carbon emissions. My role was in the Regulatory Compliance division, responsible for all Federal Energy Regulatory Commission (FERC) reliability compliance.
     projects:
       - title: Boundary Hydro Electric Dam Inspection
         link: http://www.seattle.gov/light/Boundary/
         description: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales justo dignissim felis vestibulum luctus. Praesent sollicitudin, risus quis efficitur sodales, orci magna congue quam, quis consequat elit lacus ac velit. Proin vestibulum mi eget ex viverra, a tincidunt ante pellentesque.
+          Represented the Regulatory Compliance Division during a FERC inspection of the Boundary Hydro Electric Dam Project to strengthen the compliance program in preparation for future federal audits.
       - title: Azure Information Protection System
         link: https://azure.microsoft.com/en-us/services/information-protection/
         description: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales justo dignissim felis vestibulum luctus. Praesent sollicitudin, risus quis efficitur sodales, orci magna congue quam, quis consequat elit lacus ac velit. Proin vestibulum mi eget ex viverra, a tincidunt ante pellentesque.
+          Worked with Seattle City IT project managers and Microsoft consultants on the development and deployment of an Azure Information Protection system to protect Seattle City Light’s confidential information.
       - title: FERC Regulatory Analysis
         link: https://www.nerc.com/pa/Stand/Pages/Standards-Under-Development.aspx
         description: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales justo dignissim felis vestibulum luctus. Praesent sollicitudin, risus quis efficitur sodales, orci magna congue quam, quis consequat elit lacus ac velit. Proin vestibulum mi eget ex viverra, a tincidunt ante pellentesque.
+          Advised on technical components of forthcoming Federal Energy Regulatory Commission standards, specifically CIP supply chain security and system virtualization.
   - company: Consumer Education and Training Services (CENTS)
     link: http://centsprogram.org
     office: Seattle
@@ -114,97 +113,31 @@ interests:
     publication: The New Yorker
     year: Magic
     description: >
-      X
+      An exploration of the best game ever created.
   - title: Fair Information Practices - A Basic History
     link: https://bobgellman.com/rg-docs/rg-FIPshistory.pdf
     publication: Bob Gellman
     year: Writing
     description: >
       FIPs are a set of internationally recognized practices for addressing the privacy of information about individuals. Information privacy is a subset of privacy.
-  - title: Consider the Boolean
-    link: https://source.opennews.org/en-US/learning/consider-boolean/
+  - title: The Runner
+    link: https://www.newyorker.com/magazine/2001/09/03/the-runner
     publication: Source
-    year: 2015
+    year: Writing
     description: >
-      An example with boolean types of how even the simplest datatype
-      models can fail in complicated ways
-  - title: Connecting With The Dots
-    link: https://source.opennews.org/en-US/learning/connecting-dots/
-    publication: Source
-    year: 2015
+      He woke up one morning and decided to become someone else.
+  - title: Innocence Project
+    link: https://www.innocenceproject.org/
+    publication:
+    year: Organization
     description: >
-      A look at how infographics might potentially include empathy
-  - title: Thank You, Electionbot
-    link: https://source.opennews.org/en-US/articles/thank-you-electionbot/
-    publication: Source
-    year: 2015
+      The Innocence Project, founded in 1992 by Peter Neufeld and Barry Scheck at Cardozo School of Law, exonerates the wrongly convicted through DNA testing and reforms the criminal justice system to prevent future injustice.
+  - title: Capital Punishment Project
+    link: https://www.aclu.org/other/aclus-capital-punishment-project
+    publication: ACLU
+    year: Organization
     description: >
-      How I used a Slack bot to easily track the progress of the Times
-      election loader.
-  - title: A Wave Of P.R. Data
-    link: http://www.niemanlab.org/2014/12/a-wave-of-p-r-data/
-    publication: NiemanLab
-    year: 2014
-    description: >
-      I am worried about the rise of sloppy chartjunk produced by PR
-      firms to virally advertise for companies
-  - title: Bots With Thoughts
-    link: https://source.opennews.org/en-US/articles/bots-with-thoughts/
-    publication: Source
-    year: 2014
-    description: >
-      Bots are more like toys than helpers these days. What if we
-      could create a bot that learned its aesthetics?
-  - title: Distrust Your Data
-    link: https://source.opennews.org/en-US/learning/distrust-your-data/
-    publication: Source
-    year: 2014
-    description: >
-      I analyzed some severe problems with a joint study from Pornhub
-      and Buzzfeed that was designed to be viral and was also terribly
-      wrong
-  - title: And Remember, This Is For Posterity
-    link: https://source.opennews.org/en-US/learning/and-remember-ones-posterity/
-    publication: Source
-    year: 2013
-    description: >
-      It is easier to read a newspaper from 100 years ago than a data
-      journalism project from 5 years back, because we do not build
-      our work to last.
-  - title: The Times Regrets The Programmer Error
-    link: https://source.opennews.org/en-US/learning/times-regrets-programmer-error/
-    publication: Source
-    year: 2013
-    description: >
-      Data journalism gives us new ways to report on the world, but
-      also many new and interesting ways to get it wrong. It is time
-      to consider a taxonomy of possible problems.
-  - title: About Times Haiku
-    link: http://haiku.nytimes.com/about
-    publication: The New York Times
-    year: 2013
-    description: >
-      How the New York Times haiku bot works
-  - title: How the Data Sausage Gets Made
-    link: https://source.opennews.org/en-US/learning/how-sausage-gets-made/
-    publication: Source
-    year: 2013
-    description: >
-      How I built a scraper to pull structured data out of the
-      unstructured press releases for food recalls
-  - title: "The New York Times' Election Loader"
-    link: https://source.opennews.org/en-US/articles/ny-times-results-loader/
-    publication: Source
-    year: 2012
-    description: >
-      I described some of the interesting aspect of the program that
-      automatically loaded election results for the Times homepage.
-  - title: Word Clouds Considered Harmful
-    link: http://www.niemanlab.org/2011/10/word-clouds-considered-harmful/
-    publication: NiemanLab
-    year: 2011
-    description: >
-      My diatribe against word clouds, a visualization that must be stopped
+      Partnering with ACLU affiliates in death penalty states, and with coalition partners nationally, the Capital Punishment Project promotes both abolition and systemic reform of the death penalty process.
   - title: Electronic Frontier Foundation
     link: https://www.eff.org/
     publication: EFF
