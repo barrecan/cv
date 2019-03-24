@@ -15,16 +15,27 @@ objective: >
 career:
   - company: Amazon.com
     link: https://www.amazon.com/
+    title: Indirect Tax Analyst - Amazon Tax Engine
+    start: 2019
+    end: now
+    description: >
+      Amazon's Tax Engine drives the collection of all indirect tax for retail and third-party vendor sales.
+    projects:
+      - title: Project Sparrow
+        link:
+        description: >-
+          Coordinated the transition of all Amazon products (ASINs) from a PTC-based system to a more-granular, proprietary tax classification model.
+  - company: Amazon.com
+    link: https://www.amazon.com/
     title: Tax Data Analyst - Amazon Tax Engine
     start: 2018
-    end: now
+    end: 2019
     description: >
       Work within Amazon's growing Tax Engine, focused primarily on the third-party vendor sales taxability and ongoing efforts to remain compliant with sales tax legislation resulting from South Dakota v. Wayfair, Inc.
     projects:
       - title: Data Catalog Services
         description: >-
           Worked on the Data Catalog Service, a SQL-based system that sources and transforms data into a format that is usable by the Tax Enginge with the goal of providing a more efficient and internalized data stream.
-        projects:
       - title: Product Classification Services Wiki Management
         description: >-
           Managed and maintained internal Tax Engine documentation (Wiki) initiative in an effort to streamline workflow and new employee on-boarding processes.
