@@ -21,10 +21,10 @@ career:
     description: >
       Amazon's Tax Engine drives the collection of all indirect tax for retail and third-party vendor sales.
     projects:
-      - title: Project Sparrow
+      - title: Indirect Tax Compliance
         link:
         description: >-
-          Coordinating the transition of new and existing Amazon marketplaces to a modern, more-compliant tax classification workflow.
+          Work on Tax Engine Projects to ensure that Amazon remains first-to-market on indirect tax compliance issues. 
       - title: Data Catalog Service
         link:
         description: >-
@@ -32,7 +32,7 @@ career:
       - title: Amazon Subsidiaries
         link:
         description: >-
-          Work with Amazon subsidiaries, such as Whole Foods, Twitch, and PillPack on their tax collection processes and integration with the Amazon Tax Engine. 
+          Work with Amazon subsidiaries, such as Whole Foods, Twitch, and PillPack on their tax collection processes and integration with the Amazon Tax Engine.
   - company: Amazon.com
     link: https://www.amazon.com/
     title: Tax Data Analyst - Amazon Tax Engine
