@@ -1,7 +1,7 @@
 personal:
   name: Nick Barreca
   email: barrecan@gmail.com
-  phone: (206) 963-2853
+  phone: (206) 963-285
   site: http://barrecan.com
   city: Seattle, WA
   accounts:
@@ -24,7 +24,7 @@ career:
       - title: Indirect Tax Compliance
         link:
         description: >-
-          Work on Tax Engine Projects to ensure that Amazon remains first-to-market on indirect tax compliance issues. 
+          Work on Tax Engine Projects to ensure that Amazon remains first-to-market on indirect tax compliance issues.
       - title: Data Catalog Service
         link:
         description: >-
