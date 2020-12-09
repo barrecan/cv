@@ -11,35 +11,35 @@ personal:
     keybase: barrecan
   fingerprint: A333 CFEF 9B58 9FE2 A939  792A 1D0E ED3A DC2D 5EE7
 objective: >
-  Tax Analyst at Amazon, with law school in the future. Interested in identity, information networks, and privacy.
+  Indirect tax professional at Amazon by day, training triathalon by night. Interested in identity, information networks, and privacy.
 career:
   - company: Amazon.com
     link: https://www.amazon.com/
-    title: Indirect Tax Analyst - Amazon Tax Engine
+    title: Indirect Tax Analyst II - Amazon Tax Engine
     start: 2019
     end: now
     description: >
-      Amazon's Tax Engine drives the collection of all indirect tax for retail and third-party vendor sales.
+      Amazon's Tax Engine owns all aspects of global sales tax calculation and compliance for Amazon retail, Amazon-owned entities and third-party vendors. My primary areas of focus have been global product taxability, new Amazon retail marketplace launches, internal quality assurance, and legislation compliance operations.
     projects:
-      - title: Indirect Tax Compliance
-        link:
+      - title: Amazon Netherlands & Amazon Sweden Marketplace Launches
+        link: https://amazon.nl/
         description: >-
-          Work on Tax Engine Projects to ensure that Amazon remains first-to-market on indirect tax compliance issues.
-      - title: Data Catalog Service
-        link:
+          Worked with retail marketplace launch teams in areas related to product taxability on the two most recent Amazon retail website marketplace launches—Amazon Netherlands & Amazon Sweden.
+      - title: Europe, Middle East, & Africa Sales Tax Compliance
+        link: https://www.avalara.com/vatlive/en/vat-rates/european-vat-rates.html
         description: >-
-          Own and manage the Data Catalog Service tool, a SQL-based system that sources and transforms data into a format that is usable by the Tax Enginge with the goal of providing a more efficient and internalized data stream.
-      - title: Amazon Subsidiaries
-        link:
+          Own sales tax operations for all Europe, Middle East, and Africa (EMEA) legsilative changes that impact Amazon global businesses.
+      - title: Marketplace Facilitator (Wayfair) & Deemed Reseller Compliance
+        link: https://www.salestaxinstitute.com/sales_tax_faqs/wayfair-economic-nexus
         description: >-
-          Work with Amazon subsidiaries, such as Whole Foods, Twitch, and PillPack on their tax collection processes and integration with the Amazon Tax Engine.
+          Helped architect and implement technical and system solutions to the changing global sales tax landscape that has emerged from Marketplace Facilitator (NA) and Deemed Reseller (EU) legsilation.
   - company: Amazon.com
     link: https://www.amazon.com/
     title: Tax Data Analyst - Amazon Tax Engine
     start: 2018
     end: 2019
     description: >
-      Work within Amazon's growing Tax Engine, focused primarily on the third-party vendor sales taxability and ongoing efforts to remain compliant with sales tax legislation resulting from South Dakota v. Wayfair, Inc.
+      Worked within Amazon's growing Tax Calculation Engine, focused primarily on the third-party vendor sales taxability and ongoing efforts to remain compliant with sales tax legislation resulting from South Dakota v. Wayfair, Inc.
     projects:
       - title: Data Catalog Service
         description: >-
@@ -77,7 +77,7 @@ career:
     start: 2016
     end: 2017
     description: >-
-      CENTS empowers people to improve their financial health by developing educational and legal resources to help them prevent or overcome financial challenges. CENTS is a 501(c)(3) non-profit organization funded by foundation grants, special events, program fees, and individual contributions. CENTS is affiliated with the King County Bar Association and has created programs with the support of the Washington Attorney Generals Office, the Washington State Department of Financial Institutions, Seattle Foundation, and the Consumer Protection and Education Fund. CENTS does not sell or solicit to the individuals who attend our classes and programs. My role was primarily program data research and content management.
+      CENTS empowers people to improve their financial health by developing educational and legal resources to help them prevent or overcome financial challenges. CENTS is a 501(c)(3) non-profit organization funded by foundation grants, special events, program fees, and individual contributions. CENTS is affiliated with the King County Bar Association and has created programs with the support of the Washington Attorney Generals Office, the Washington State Department of Financial Institutions, Seattle Foundation, and the Consumer Protection and Education Fund. CENTS does not sell or solicit to the individuals who attend our classes and programs. My role primarily involved program data research and content management.
     projects:
       - title: Money Steps
         link: http://moneystepsproject.org/
@@ -100,54 +100,87 @@ education:
     degree: Bachelor of Art
     description: >
       Major in Political Science. Concentration of studies: Legal studies, political theory/philosophy, comparative politics and transitional justice.
+  - name: Institute for Professionals in Taxation
+    link: https://www.ipt.org/
+    start: 2020
+    end: 2020
+    degree: Sales Tax School I
+    description: >
+      IPT’s Sales Tax School I offers a thorough review and analysis of many essential sales & use tax principles and concepts including research, accounting, auditing, and other technical skills. The school curriculum has been updated to address the ongoing issues related to the Wayfair decision.
+
 skills:
-  languages:
-    - HTML/CSS
-    - LaTeX
-    - XML/YAML/Markdown
-    - SQL (MySQL/Postgres)
-    - Bash
-    - (some) Python/Flask
-    - (learning) R
+  concentrations:
+    - EU value added tax (VAT)
+    - Marketplace facilitator (Wayfair) & deemed reseller (EU) compliance
+    - Brexit preparation/compliance
+    - U.S. state & local sales tax
+    - North American regulatory fee compliance
+    - Data analysis and risk assessment
+
   tools:
-    - Mac OS X/ Linux server
-    - Amazon Web Services (AWS)
-    - Azure Information Protection (AIP)
-    - Apache/Nginx/static sites
-    - Git/Github
-    - Domain management
-    - Security/Penetration tools
-  creative:
-    - Regulatory/Statutory analysis
-    - Data governance
-    - Audit attestation
+    - SQL (MySQL/Postgres)
+    - Tableau Desktop & Server
+    - Alteryx Designer
+    - Vertex Indirect Tax O Series
+    - Amazon Web Services (AWS) suite
+    - Issue & project tracking software
+    - (some) Python/Flask
+  strengths:
+    - Regulatory/statutory analysis
+    - Data governance and compliance
+    - Audit attestation (SOX)
     - Internal documentation management
     - Effective remote worker
     - Great communication skills
     - Works well with others
     - Concerned about inclusion
 interests:
+  - title: The Case of Richard Glossip
+    link: https://blog.barrecan.com/2015-09-30-richard_glossip/
+    publication: Blog Post
+    year: Writing
+    description: >
+      The Case of Richard Glossip and brief thoughts on capital punishment
+      An exploration of the best game ever created.
   - title: The Twenty-Five-Year Journey of Magic The Gathering
     link: https://www.newyorker.com/culture/culture-desk/the-twenty-five-year-journey-of-magic-the-gathering
     publication: The New Yorker
-    year: Magic
+    year: Reading
     description: >
       An exploration of the best game ever created.
+  - title: The Runner
+    link: https://www.newyorker.com/magazine/2001/09/03/the-runner
+    publication: The New Yorker
+    year: Reading
+    description: >
+      He woke up one morning and decided to become someone else.
+  - title: The Perfect Fit
+    link: https://www.newyorker.com/magazine/2016/03/28/david-sedaris-shops-for-clothes-in-tokyo
+    publication: The New Yorker
+    year: Reading
+    description: >
+      David Sedaris goes clothes shopping in Tokyo.
   - title: Fair Information Practices - A Basic History
     link: https://bobgellman.com/rg-docs/rg-FIPshistory.pdf
     publication: Bob Gellman
-    year: Writing
+    year: Reading
     description: >
       FIPs are a set of internationally recognized practices for addressing the privacy of information about individuals. Information privacy is a subset of privacy.
-  - title: The Runner
-    link: https://www.newyorker.com/magazine/2001/09/03/the-runner
-    publication: Source
-    year: Writing
+  - title: Roger Federer as Religious Experience
+    link: https://www.nytimes.com/2006/08/20/sports/playmagazine/20federer.html?pagewanted=all
+    publication: The New York Times
+    year: Reading
     description: >
-      He woke up one morning and decided to become someone else.
+      David Foster Wallace on the joy of watching Roger play live at Wimbledon.
+  - title: Strategic Behavior in Road Cycling Competitions
+    link: https://www.researchgate.net/publication/283119813_Strategic_Behavior_in_Road_Cycling_Competitions
+    publication: Jean-François Mignot
+    year: Reading
+    description: >
+      David Foster Wallace on the joy of watching Roger play live at Wimbledon.
   - title: Innocence Project
     link: https://www.innocenceproject.org/
-    publication:
+    publication: IP
     year: Organization
     description: >
       The Innocence Project, founded in 1992 by Peter Neufeld and Barry Scheck at Cardozo School of Law, exonerates the wrongly convicted through DNA testing and reforms the criminal justice system to prevent future injustice.
@@ -163,3 +196,9 @@ interests:
     year: Organization
     description: >
       The Electronic Frontier Foundation is the leading nonprofit organization defending civil liberties in the digital world.
+  - title: SAY - The Stuttering Association for the Young
+    link: https://www.say.org/
+    publication: SAY
+    year: Organization
+    description: >
+      SAY: The Stuttering Association for the Young is a national non-profit organization that empowers, educates, and supports young people who stutter and the world that surrounds them.
