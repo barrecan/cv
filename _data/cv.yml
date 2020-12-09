@@ -2,7 +2,7 @@ personal:
   name: Nick Barreca
   email: barrecan@gmail.com
   phone: (206) 963-2853
-  site: http://barrecan.com
+  site: https://barrecan.com
   city: Seattle, WA
   accounts:
     twitter: barrecan
@@ -11,7 +11,7 @@ personal:
     keybase: barrecan
   fingerprint: A333 CFEF 9B58 9FE2 A939  792A 1D0E ED3A DC2D 5EE7
 objective: >
-  Indirect tax professional at Amazon by day, training triathalon by night. Interested in identity, information networks, and privacy.
+  Indirect tax professional at Amazon by day, training triathlon by night. Interested in identity, information networks, and privacy.
 career:
   - company: Amazon.com
     link: https://www.amazon.com/
@@ -28,11 +28,11 @@ career:
       - title: Europe, Middle East, & Africa Sales Tax Compliance
         link: https://www.avalara.com/vatlive/en/vat-rates/european-vat-rates.html
         description: >-
-          Own sales tax operations for all Europe, Middle East, and Africa (EMEA) legsilative changes that impact Amazon global businesses.
+          Own sales tax operations for all Europe, Middle East, and Africa (EMEA) legislative changes that impact Amazon global businesses.
       - title: Marketplace Facilitator (Wayfair) & Deemed Reseller Compliance
         link: https://www.salestaxinstitute.com/sales_tax_faqs/wayfair-economic-nexus
         description: >-
-          Helped architect and implement technical and system solutions to the changing global sales tax landscape that has emerged from Marketplace Facilitator (NA) and Deemed Reseller (EU) legsilation.
+          Helped architect and implement technical and system solutions to the changing global sales tax landscape that has emerged from Marketplace Facilitator (NA) and Deemed Reseller (EU) legislation.
   - company: Amazon.com
     link: https://www.amazon.com/
     title: Tax Data Analyst - Amazon Tax Engine
@@ -43,13 +43,13 @@ career:
     projects:
       - title: Data Catalog Service
         description: >-
-          Worked on the Data Catalog Service, a SQL-based system that sources and transforms data into a format that is usable by the Tax Enginge with the goal of providing a more efficient and internalized data stream.
+          Worked on the Data Catalog Service, a SQL-based system that sources and transforms data into a format that is usable by the Tax Engine with the goal of providing a more efficient and internalized data stream.
       - title: Product Classification Services Wiki Management
         description: >-
           Managed and maintained internal Tax Engine documentation (Wiki) initiative in an effort to streamline workflow and new employee on-boarding processes.
       - title: Internal Application Development
         description: >-
-          Advised on internal tax classification software development with Tax Enginge managers and software developers.
+          Advised on internal tax classification software development with Tax Engine managers and software developers.
   - company: Seattle City Light
     link: http://seattle.gov/light/
     title: Regulatory Compliance Intern
@@ -82,11 +82,11 @@ career:
       - title: Money Steps
         link: http://moneystepsproject.org/
         description: >-
-          Money Steps was designed to help people who have experienced incarceratio take control of their financial situation. The project was made in partnership with the United States Probation and Pretrial Services system and funded by a grant from the Western District of Washington Library Fund.
+          Money Steps was designed to help people who have experienced incarceration take control of their financial situation. The project was made in partnership with the United States Probation and Pretrial Services system and funded by a grant from the Western District of Washington Library Fund.
       - title: Senior Money Project
         link: http://seniormoneyproject.org/
         description: >-
-          The statistics are staggering: Senior citizens and the elerly are swindled out of nearly $3 billion a year, yet only 1 in 44 cases are reported. Senior Money Project is an educational financial program which aims to inform this at risk population on topics such as identity theft and estate planning, money management, reverse mortgages/equity, and general predatory scams.
+          The statistics are staggering: Senior citizens and the elderly are swindled out of nearly $3 billion a year, yet only 1 in 44 cases are reported. Senior Money Project is an educational financial program which aims to inform this at risk population on topics such as identity theft and estate planning, money management, reverse mortgages/equity, and general predatory scams.
       - title: Financial Navigation Program for Cancer Patients
         link: http://centsprogram.org/wordpress/wp-content/uploads/2018/12/flyer-planners.pdf
         description: >-
