@@ -11,28 +11,62 @@ personal:
     keybase: barrecan
   fingerprint: A333 CFEF 9B58 9FE2 A939  792A 1D0E ED3A DC2D 5EE7
 objective: >
-  Indirect tax professional at Amazon by day, training triathlon by night. Interested in identity, information networks, and privacy.
+  Tax technology manager at Expedia Group by day, training triathlon by night. Interested in identity, information networks, and privacy.
 career:
+  - company: Expedia Group
+    link: https://www.expediagroup.com/
+    title: Tax Technology Manager
+    start: 2022
+    end: now
+    description: >
+      Expedia Group's Tax Technology group is resonsible for tax calculation, compliance, and tax platform initiatives.
+    projects:
+      - title: Global Tax Platform
+        link: https://www.expediagroup.com/
+        description: >-
+          Manage scoping, requirements gathering, and resourcing for global compliance tax platform initiatives.
   - company: Amazon.com
     link: https://www.amazon.com/
     title: Indirect Tax Analyst II - Amazon Tax Engine
+    start: 2020
+    end: 2022
+    description: >
+      Amazon's Tax Engine owns all aspects of global sales tax calculation and compliance for Amazon retail, Amazon-owned entities and third-party vendors. My primary areas of focus have been global product taxability, new Amazon retail marketplace launches, internal quality assurance, and legislation compliance operations.
+    projects:
+      - title: Amazon IN Advisory
+        link: https://amazon.in/
+        description: >-
+          Advise business teams and stakeholders on tax calculation and compliance requirements for Amazon India projects—Amazon’s fastest growing foreign marketplace.
+      - title: Amazon Europe, Middle East, & Africa Tax Configuration
+        link: https://www.vertexinc.com/
+        description: >-
+          Own and manage Vertex tax configuration for all Amazon Europe, Middle East, and India business lines. On average, deploy around 800 Vertex configuration changes per quarter, such as rate changes, entity and tax registration modifcations, and new product launches.
+      - title: Tax Employee Development (TED) Program
+        link: https://www.amazon.jobs/en/teams/finance-tax
+        description: >-
+          Manage the Tax Employee Development (TED) program for all of Amazon Tax Engine, responsible for coordinating CPE/CLE eligible trainings and providing personal and professional development resources.
+  - company: Amazon.com
+    link: https://www.amazon.com/
+    title: Indirect Tax Analyst I - Amazon Tax Engine
     start: 2019
-    end: now
+    end: 2020
     description: >
       Amazon's Tax Engine owns all aspects of global sales tax calculation and compliance for Amazon retail, Amazon-owned entities and third-party vendors. My primary areas of focus have been global product taxability, new Amazon retail marketplace launches, internal quality assurance, and legislation compliance operations.
     projects:
       - title: Amazon Netherlands & Amazon Sweden Marketplace Launches
         link: https://amazon.nl/
         description: >-
-          Worked with retail marketplace launch teams in areas related to product taxability on the two most recent Amazon retail website marketplace launches—Amazon Netherlands & Amazon Sweden.
-      - title: Europe, Middle East, & Africa Sales Tax Compliance
-        link: https://www.avalara.com/vatlive/en/vat-rates/european-vat-rates.html
-        description: >-
-          Own sales tax operations for all Europe, Middle East, and Africa (EMEA) legislative changes that impact Amazon global businesses.
+          Launched product tax classification integration with the Amazon Netherlands and United Arab Emirates marketplaces—the first new Amazon marketplace launches onto the post-Wayfair product classification model.
       - title: Marketplace Facilitator (Wayfair) & Deemed Reseller Compliance
-        link: https://www.salestaxinstitute.com/sales_tax_faqs/wayfair-economic-nexus
+        link: https://sellercentral.amazon.com/gp/help/external/7VYHGJ8ZT2M58CP
         description: >-
-          Helped architect and implement technical and system solutions to the changing global sales tax landscape that has emerged from Marketplace Facilitator (NA) and Deemed Reseller (EU) legislation.
+          Helped turn-on marketplace facilitator (MPF) collection in over 30-states on an expedited timeline while providing process improvements to streamline future MPF and Deemed Reseller enablement.
+      - title: Emerging Tax Legislation Research
+        link: https://sellercentral.amazon.com/gp/help/external/7VYHGJ8ZT2M58CP
+        description: >-
+          Researched and developed tax calculation requirements for emerging global tax legislation, including but
+          not limited to, Marketplace Facilitator, Deemed Reseller, Low Value Imports, eInvoicing, and numerous
+          regulatory and product-property-based fees.
   - company: Amazon.com
     link: https://www.amazon.com/
     title: Tax Data Analyst - Amazon Tax Engine
