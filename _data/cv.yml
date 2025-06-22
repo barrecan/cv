@@ -1,11 +1,11 @@
 personal:
   name: Nick Barreca
   email: barrecan@gmail.com
-  phone: Email me for number
+  #phone: Email me for number
   site: https://barrecan.com
   city: Seattle, WA
   accounts:
-    twitter: barrecan
+    #twitter: barrecan
     github: barrecan
     linkedin: barrecan
     keybase: barrecan
