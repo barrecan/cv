@@ -1,17 +1,250 @@
----
-layout: layout
----
-
-{% include header.html %}
-
-{% include objective.html %}
-
-{% include skills.html %}
-
-{% include employment.html %}
-
-{% include education.html %}
-
-{% include writing.html %}
-
-{% include footer.html %}
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8">
+  <title>Nick Barreca | Resume</title>
+  <meta name="description" content="Tax technology manager at Expedia Group by day, training triathlon by night.">
+  <meta name="author" content="Nick Barreca">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/static/css/layout.css">
+</head>
+<body>
+  <main class="resume-shell">
+    <article class="resume">
+      <section id="header" class="resume-header">
+        <div class="contact-list">
+          <h1>Nick Barreca</h1>
+          <ul>
+            <li><a href="mailto:barrecan@gmail.com">barrecan@gmail.com</a></li>
+            <li><a href="https://barrecan.com">barrecan.com</a></li>
+            <li>San Francisco, CA</li>
+          </ul>
+        </div>
+        <div class="avatar no-print">
+          <img src="/static/avatar.jpg" alt="Portrait of Nick Barreca" height="120" width="120">
+        </div>
+      </section>
+      <section id="objective" class="resume-section">
+        <h2>Objective</h2>
+        <div class="prose">Tax technology manager at Expedia Group by day, training triathlon by night.</div>
+      </section>
+      <section id="skills" class="skill-grid">
+        <h2 class="sr-only">Skills</h2>
+        <h3>Concentrations:</h3>
+        <ul>
+          <li>EU value added tax (VAT)</li>
+          <li>Marketplace facilitator (Wayfair) &amp; deemed reseller (EU) compliance</li>
+          <li>Brexit preparation/compliance</li>
+          <li>U.S. state &amp; local sales tax</li>
+          <li>North American regulatory fee compliance</li>
+          <li>Data analysis and risk assessment</li>
+        </ul>
+        <h3>Tools:</h3>
+        <ul>
+          <li>SQL (MySQL/Postgres)</li>
+          <li>Tableau Desktop &amp; Server</li>
+          <li>Alteryx Designer</li>
+          <li>Vertex Indirect Tax O Series</li>
+          <li>Avalara AvaTax Tax Engine</li>
+          <li>Amazon Web Services (AWS) suite</li>
+          <li>Issue &amp; project tracking software</li>
+          <li>(some) Python/Flask</li>
+        </ul>
+        <h3>Skills:</h3>
+        <ul>
+          <li>Regulatory/statutory analysis</li>
+          <li>Data governance and compliance</li>
+          <li>Audit attestation (SOX)</li>
+          <li>Internal documentation management</li>
+          <li>Effective remote worker</li>
+          <li>Great communication skills</li>
+          <li>Works well with others</li>
+          <li>Concerned about inclusion</li>
+        </ul>
+      </section>
+      <section id="employment" class="resume-section">
+        <h2>Employment</h2>
+        <dl class="timeline-list">
+          <dt><time>2022-now</time></dt>
+          <dd class="job">
+            <header>
+              <strong>Tax Technology Manager</strong>, <a href="https://www.expediagroup.com/" itemprop="url"><span itemprop="name">Expedia Group</span></a>
+              <span class="mobile-date">2022-now</span>
+            </header>
+            <div class="prose">Expedia Group&#39;s Tax Technology group is resonsible for tax calculation, compliance, and tax platform initiatives.</div>
+            <ul class="project-list">
+              <li>
+                <div class="project-heading">
+                  <a class="project-title" href="https://www.expediagroup.com/">Global Tax Platform</a>
+                </div>
+                <div class="prose project-description">Manage scoping, requirements gathering, and resourcing for global compliance tax platform initiatives.</div>
+              </li>
+            </ul>
+          </dd>
+          <dt><time>2020-2022</time></dt>
+          <dd class="job">
+            <header>
+              <strong>Indirect Tax Analyst II - Amazon Tax Engine</strong>, <a href="https://www.amazon.com/" itemprop="url"><span itemprop="name">Amazon.com</span></a>
+              <span class="mobile-date">2020-2022</span>
+            </header>
+            <div class="prose">Amazon&#39;s Tax Engine owns all aspects of global sales tax calculation and compliance for Amazon retail, Amazon-owned entities and third-party vendors. My primary areas of focus have been global product taxability, new Amazon retail marketplace launches, internal quality assurance, and legislation compliance operations.</div>
+            <ul class="project-list">
+              <li>
+                <div class="project-heading">
+                  <a class="project-title" href="https://amazon.in/">Amazon IN Advisory</a>
+                </div>
+                <div class="prose project-description">Advise business teams and stakeholders on tax calculation and compliance requirements for Amazon India projects—Amazon’s fastest growing foreign marketplace.</div>
+              </li>
+              <li>
+                <div class="project-heading">
+                  <a class="project-title" href="https://www.vertexinc.com/">Amazon Europe, Middle East, &amp; Africa Tax Configuration</a>
+                </div>
+                <div class="prose project-description">Own and manage Vertex tax configuration for all Amazon Europe, Middle East, and India business lines. On average, deploy around 800 Vertex configuration changes per quarter, such as rate changes, entity and tax registration modifcations, and new product launches.</div>
+              </li>
+              <li>
+                <div class="project-heading">
+                  <a class="project-title" href="https://www.amazon.jobs/en/teams/finance-tax">Tax Employee Development (TED) Program</a>
+                </div>
+                <div class="prose project-description">Manage the Tax Employee Development (TED) program for all of Amazon Tax Engine, responsible for coordinating CPE/CLE eligible trainings and providing personal and professional development resources.</div>
+              </li>
+            </ul>
+          </dd>
+          <dt><time>2019-2020</time></dt>
+          <dd class="job">
+            <header>
+              <strong>Indirect Tax Analyst I - Amazon Tax Engine</strong>, <a href="https://www.amazon.com/" itemprop="url"><span itemprop="name">Amazon.com</span></a>
+              <span class="mobile-date">2019-2020</span>
+            </header>
+            <div class="prose">Amazon&#39;s Tax Engine owns all aspects of global sales tax calculation and compliance for Amazon retail, Amazon-owned entities and third-party vendors. My primary areas of focus have been global product taxability, new Amazon retail marketplace launches, internal quality assurance, and legislation compliance operations.</div>
+            <ul class="project-list">
+              <li>
+                <div class="project-heading">
+                  <a class="project-title" href="https://amazon.nl/">Amazon Netherlands &amp; Amazon Sweden Marketplace Launches</a>
+                </div>
+                <div class="prose project-description">Launched product tax classification integration with the Amazon Netherlands and United Arab Emirates marketplaces—the first new Amazon marketplace launches onto the post-Wayfair product classification model.</div>
+              </li>
+              <li>
+                <div class="project-heading">
+                  <a class="project-title" href="https://sellercentral.amazon.com/gp/help/external/7VYHGJ8ZT2M58CP">Marketplace Facilitator (Wayfair) &amp; Deemed Reseller Compliance</a>
+                </div>
+                <div class="prose project-description">Helped turn-on marketplace facilitator (MPF) collection in over 30-states on an expedited timeline while providing process improvements to streamline future MPF and Deemed Reseller enablement.</div>
+              </li>
+              <li>
+                <div class="project-heading">
+                  <a class="project-title" href="https://sellercentral.amazon.com/gp/help/external/7VYHGJ8ZT2M58CP">Emerging Tax Legislation Research</a>
+                </div>
+                <div class="prose project-description">Researched and developed tax calculation requirements for emerging global tax legislation, including but not limited to, Marketplace Facilitator, Deemed Reseller, Low Value Imports, eInvoicing, and numerous regulatory and product-property-based fees.</div>
+              </li>
+            </ul>
+          </dd>
+          <dt><time>2018-2019</time></dt>
+          <dd class="job">
+            <header>
+              <strong>Tax Data Analyst - Amazon Tax Engine</strong>, <a href="https://www.amazon.com/" itemprop="url"><span itemprop="name">Amazon.com</span></a>
+              <span class="mobile-date">2018-2019</span>
+            </header>
+            <div class="prose">Worked within Amazon&#39;s growing Tax Calculation Engine, focused primarily on the third-party vendor sales taxability and ongoing efforts to remain compliant with sales tax legislation resulting from South Dakota v. Wayfair, Inc.</div>
+            <ul class="project-list">
+              <li>
+                <div class="project-heading">
+                  <span class="project-title">Data Catalog Service</span>
+                </div>
+                <div class="prose project-description">Worked on the Data Catalog Service, a SQL-based system that sources and transforms data into a format that is usable by the Tax Engine with the goal of providing a more efficient and internalized data stream.</div>
+              </li>
+              <li>
+                <div class="project-heading">
+                  <span class="project-title">Product Classification Services Wiki Management</span>
+                </div>
+                <div class="prose project-description">Managed and maintained internal Tax Engine documentation (Wiki) initiative in an effort to streamline workflow and new employee on-boarding processes.</div>
+              </li>
+              <li>
+                <div class="project-heading">
+                  <span class="project-title">Internal Application Development</span>
+                </div>
+                <div class="prose project-description">Advised on internal tax classification software development with Tax Engine managers and software developers.</div>
+              </li>
+            </ul>
+          </dd>
+          <dt><time>2017-2018</time></dt>
+          <dd class="job">
+            <header>
+              <strong>Regulatory Compliance Intern</strong>, <a href="http://seattle.gov/light/" itemprop="url"><span itemprop="name">Seattle City Light</span></a>
+              <span class="mobile-date">2017-2018</span>
+            </header>
+            <div class="prose">Seattle City Light is the 10th largest public utility in the United States and in 2005 became the first electric utility in the United States to fully offset all its carbon emissions. My role was in the Regulatory Compliance division, responsible for all Federal Energy Regulatory Commission (FERC) reliability compliance.</div>
+            <ul class="project-list">
+              <li>
+                <div class="project-heading">
+                  <a class="project-title" href="http://www.seattle.gov/light/Boundary/">Boundary Hydro Electric Dam Inspection</a>
+                </div>
+                <div class="prose project-description">Represented the Regulatory Compliance Division during a FERC inspection of the Boundary Hydro Electric Dam Project to strengthen the compliance program in preparation for future federal audits.</div>
+              </li>
+              <li>
+                <div class="project-heading">
+                  <a class="project-title" href="https://azure.microsoft.com/en-us/services/information-protection/">Azure Information Protection System</a>
+                </div>
+                <div class="prose project-description">Worked with Seattle City IT project managers and Microsoft consultants on the development and deployment of an Azure Information Protection system to protect Seattle City Light’s confidential information.</div>
+              </li>
+              <li>
+                <div class="project-heading">
+                  <a class="project-title" href="https://www.nerc.com/pa/Stand/Pages/Standards-Under-Development.aspx">FERC Regulatory Analysis</a>
+                </div>
+                <div class="prose project-description">Advised on technical components of forthcoming Federal Energy Regulatory Commission standards, specifically CIP supply chain security and system virtualization.</div>
+              </li>
+            </ul>
+          </dd>
+          <dt><time>2016-2017</time></dt>
+          <dd class="job">
+            <header>
+              <strong>Legal Research Intern</strong>, <a href="http://centsprogram.org" itemprop="url"><span itemprop="name">Consumer Education and Training Services (CENTS)</span></a>
+              <span class="mobile-date">2016-2017</span>
+            </header>
+            <div class="prose">CENTS empowers people to improve their financial health by developing educational and legal resources to help them prevent or overcome financial challenges. CENTS is a 501(c)(3) non-profit organization funded by foundation grants, special events, program fees, and individual contributions. CENTS is affiliated with the King County Bar Association and has created programs with the support of the Washington Attorney Generals Office, the Washington State Department of Financial Institutions, Seattle Foundation, and the Consumer Protection and Education Fund. CENTS does not sell or solicit to the individuals who attend our classes and programs. My role primarily involved program data research and content management.</div>
+            <ul class="project-list">
+              <li>
+                <div class="project-heading">
+                  <a class="project-title" href="http://moneystepsproject.org/">Money Steps</a>
+                </div>
+                <div class="prose project-description">Money Steps was designed to help people who have experienced incarceration take control of their financial situation. The project was made in partnership with the United States Probation and Pretrial Services system and funded by a grant from the Western District of Washington Library Fund.</div>
+              </li>
+              <li>
+                <div class="project-heading">
+                  <a class="project-title" href="http://seniormoneyproject.org/">Senior Money Project</a>
+                </div>
+                <div class="prose project-description">The statistics are staggering: Senior citizens and the elderly are swindled out of nearly $3 billion a year, yet only 1 in 44 cases are reported. Senior Money Project is an educational financial program which aims to inform this at risk population on topics such as identity theft and estate planning, money management, reverse mortgages/equity, and general predatory scams.</div>
+              </li>
+              <li>
+                <div class="project-heading">
+                  <a class="project-title" href="http://centsprogram.org/wordpress/wp-content/uploads/2018/12/flyer-planners.pdf">Financial Navigation Program for Cancer Patients</a>
+                </div>
+                <div class="prose project-description">In 2015, CENTS began its partnership with the Fred Hutchinson Cancer Research Center to study strategies to prevent or reduce cancer-related financial toxicity. In these research projects, patients were provided an individual financial counselor by CENTS and an insurance advocate from the Patient Advocate Foundation for monthly individual meetings for six months.</div>
+              </li>
+            </ul>
+          </dd>
+        </dl>
+      </section>
+      <section id="education" class="resume-section">
+        <h2>Education</h2>
+        <dl class="timeline-list">
+          <dt><time>2014-2018</time></dt>
+          <dd>
+            <header>
+              <strong>Bachelor of Art</strong>, <a href="https://seattleu.edu/">Seattle University</a>
+              <span class="mobile-date">2014-2018</span>
+            </header>
+            <div class="prose">Major in Political Science. Concentration of studies: Legal studies, political theory/philosophy, comparative politics and transitional justice.</div>
+          </dd>
+          <dt><time>2020-2020</time></dt>
+          <dd>
+            <header>
+              <strong>Sales Tax School I</strong>, <a href="https://www.ipt.org/">Institute for Professionals in Taxation</a>
+              <span class="mobile-date">2020-2020</span>
+            </header>
+            <div class="prose">IPT’s Sales Tax School I offers a thorough review and analysis of many essential sales &amp; use tax principles and concepts including research, accounting, auditing, and other technical skills. The school curriculum has been updated to address the ongoing issues related to the Wayfair decision.</div>
+          </dd>
+        </dl>
+      </section>
+    </article>
+  </main>
+</body>
+</html>
