@@ -27,6 +27,8 @@ jobs:
           test -f index.html
           test -f CNAME
           test -f .nojekyll
+          test -f sitemap.xml
+          test -f robots.txt
           test -f static/css/layout.css
           grep -q "Nick Barreca" index.html
           grep -q "barrecan.com" CNAME
@@ -34,7 +36,7 @@ jobs:
       - name: Package site
         run: |
           mkdir site
-          cp index.html 404.html CNAME favicon.ico .nojekyll site/
+          cp index.html 404.html CNAME favicon.ico .nojekyll sitemap.xml robots.txt site/
           cp -R static site/
 
       - name: Upload Pages artifact

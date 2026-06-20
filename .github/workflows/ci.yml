@@ -19,6 +19,8 @@ jobs:
           test -f index.html
           test -f CNAME
           test -f .nojekyll
+          test -f sitemap.xml
+          test -f robots.txt
           test -f static/css/layout.css
           grep -q "Nick Barreca" index.html
           grep -q "barrecan.com" CNAME
