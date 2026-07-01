@@ -166,6 +166,10 @@ h2,
   white-space: nowrap;
 }
 
+.skill-grid li:not(:last-child)::after {
+  content: ",";
+}
+
 .timeline-list {
   display: grid;
   grid-template-columns: 86px minmax(0, 1fr);
